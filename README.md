@@ -6,6 +6,10 @@ When you go to [Cardmarket](https://www.cardmarket.com/en/YuGiOh) and wonder:
 
 These scripts help you find out.
 
+Compared to "Shopping Wizard" and "Sellers with the Most Cards" features,
+Pros: unlimited run, you have more control to prioritize cards to buy over large wanted list, and compare prices directly over multiple cards
+Cons: open pages and copy paste manually, and lookup to seller profile again (Tips: filter the country to your desired shipping cost in CM and copy up to your price limit)
+
 ## Installation
 
 * Install **Python 3.8+**
