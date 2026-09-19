@@ -26,7 +26,7 @@ python3 --version
 
 ## 1. Parse Cardmarket listings
 
-Copy the listings for a card from Cardmarket into a text file, e.g.:
+Copy the listings for a card in "**Show Offers**" from Cardmarket into a text file, e.g.:
 
 ```text
 hamon.txt
